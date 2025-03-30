@@ -2,7 +2,7 @@
 ## 📌 Tên đề tài: XÂY DỰNG ỨNG DỤNG ĐẶT HÀNG VÀ QUẢN LÝ CỬA HÀNG THỨC ĂN NHANH
 
 ## 👨‍💻 Thành viên nhóm
-1.	**Mã Đào Tháng** Trưởng nhóm 
+1.	**Mã Đào Thắng** Trưởng nhóm 
 2.	Nguyễn Văn Thành Đạt
 3.	Đặng Khải Khương
 
