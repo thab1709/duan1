@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093346654766",
+    "project_id": "dacsn-b4e2b",
+    "storage_bucket": "dacsn-b4e2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093346654766:android:20efece2a247b8ca6cbdbf",
+        "android_client_info": {
+          "package_name": "tiendhph30203.poly.projectdatdoan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZdSepl8_-Ptt7dcJJCYTjl12K4-tuQt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
